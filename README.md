@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Retail Dashboard](RetailSalesDatabaseProject/RetailDashboard.png)
+![Retail Dashboard](RetailDashboard.png)
 ## Overview
 
 This project demonstrates how relational sales data stored in a SQL database can be transformed into an interactive analytics dashboard. The workflow covers database design, data modelling, and business intelligence visualisation.
@@ -185,20 +185,13 @@ All dashboard visuals update automatically when filters are applied.
 The Power BI dashboard file is located in the following directory:
 
 ```
-RetailSalesDatabaseProject/RetailSalesDashboard.pbix
+RetailSalesDashboard.pbix
 ```
 
 Open this file using **Power BI Desktop** to explore or modify the dashboard.
 
 ---
 
-# Dashboard Preview
-
-A screenshot of the dashboard can be found here:
-
-```
-RetailSalesDatabaseProject/RetailDashboard.png
-```
 
 ---
 
